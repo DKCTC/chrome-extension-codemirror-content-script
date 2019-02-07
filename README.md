@@ -1,6 +1,8 @@
 # chrome-extension-codemirror-content-script
 Load the Codemirror libraries and create Codemirror elements in Chrome extension content scripts, including inside of iframes
 
+Tested through **Chrome 72**
+
 Requires **[CodeMirror](https://codemirror.net/)** - tested with version 5.33.0, will probably not work for versions older than 5
 
 Requires **chrome-extension-port-communications** [GitHub](https://github.com/dkline03/chrome-extension-port-communications)
