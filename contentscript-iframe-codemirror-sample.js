@@ -8,7 +8,7 @@
 //https://github.com/codemirror/CodeMirror
 
 //-requires chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 
 //opens connection to background.js
