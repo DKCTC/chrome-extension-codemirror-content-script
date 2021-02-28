@@ -5,7 +5,7 @@ Tested through **Chrome 72**
 
 Requires **[CodeMirror](https://codemirror.net/)** - tested with version 5.33.0, will probably not work for versions older than 5
 
-Requires **chrome-extension-port-communications** [GitHub](https://github.com/dkline03/chrome-extension-port-communications)
+Requires **chrome-extension-port-communications** [GitHub](https://github.com/DKCTC/chrome-extension-port-communications)
 
 CodeMirror supports loaders such as requireJS, but that does not work inside of content scripts that run in a sandbox.
 
@@ -23,7 +23,7 @@ See the examples in **contentscript-codemirror-sample.js**, **contentscript-ifra
 
 **You will also need to update the paths in the sample code in _contentscript-codemirror-sample.js_ and _contentscript-iframe-codemirror-sample.js_ to match your script paths!**
 
-**The code in _background-sample-codemirror.js_ is required to be in the background script in order to load the scripts! _chrome-extension-port-communications_ [GitHub](https://github.com/dkline03/chrome-extension-port-communications) is also required to be loaded in the background!**
+**The code in _background-sample-codemirror.js_ is required to be in the background script in order to load the scripts! _chrome-extension-port-communications_ [GitHub](https://github.com/DKCTC/chrome-extension-port-communications) is also required to be loaded in the background!**
 
 ## Support
 
@@ -32,7 +32,7 @@ Please submit an issue.
 
 ## License
 
-Copyright (c) 2019 dkline03
+Copyright (c) 2021 DKCTC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
