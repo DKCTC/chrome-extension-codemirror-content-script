@@ -2,7 +2,7 @@
 //background.js functions for adding scripts
 
 //-requires chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 //the incoming port connection
 var backgroundConnection = new Port();
