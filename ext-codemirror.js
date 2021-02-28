@@ -1,11 +1,10 @@
-﻿
 //create codemirrors in content scripts
 
 //-requires Codemirror, tested with version 5.33.0
 //https://github.com/codemirror/CodeMirror
 
 //-requires chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 
 var extCodeMirror = function(opt) {
